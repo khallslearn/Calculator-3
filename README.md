@@ -2,7 +2,7 @@
 
 This is calculator application you can use to 
 
-<a href="https://ibb.co/RPfkjWR"><img src="https://i.ibb.co/hfkTGcB/Calculator.jpg" alt="Calculator" border="0"></a> 
+<img src="https://i.ibb.co/hfkTGcB/Calculator.jpg">
 LIVE DEMO https://khallslearn.github.io/Calculator-3/
 ## How It's Made:
 
